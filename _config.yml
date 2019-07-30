@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jameskim527@gmail.com
+      # url: mailto:jameskim527@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,9 +128,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jylkim"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linked-in"
+      url: "https://www.linkedin.com/in/young-lo-kim-159a0295/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/jameskim527"
 
 # Site Footer
 footer:
