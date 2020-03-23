@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// profile img overrides
+.author__avatar {
+  img {
+    max-width: fit-content !important;
+    border-radius: 0% !important;
+
+    @include breakpoint($large) {
+      padding: 0px !important;
+      border: 0px !important;
+    }
+  }
+}
