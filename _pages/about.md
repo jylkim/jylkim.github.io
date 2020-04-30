@@ -4,4 +4,8 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi! I'm a software developer & team lead located at South Korea. I'm interested in C/C++, Linux, application framework and traveling.
+2015년부터 소프트웨어 개발을 하고 있습니다. C++ 과 리눅스, 그리고 간결히 일하는 방식에 관심을 가지고 있습니다.
+
+현재 한 팀을 맡아 사내 소프트웨어 개발을 위한 프레임워크의 구현을 담당하고 있습니다.
+
+여행을 좋아했으나 나이가 들면서 점점 집콕을 선호하는 추세로 가는 중입니다.

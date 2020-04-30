@@ -20,7 +20,7 @@ title                    : "James on Software"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Young-Lo Kim"
-description              : "An amazing website."
+description              : #"An amazing website."
 url                      : "https://jylkim.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : #"Hi! I'm a software developer & team lead located at South Korea. I'm interested in C/C++, Linux, application framework and traveling."
   location         : "Seongnam, South Korea"
-  email            : "jameskim527@gmail.com"
+  email            : #"jameskim527@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -113,13 +113,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jylkim"
+      # url: "https://github.com/jylkim"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/young-lo-kim-159a0295/"
+      # url: "https://www.linkedin.com/in/young-lo-kim-159a0295/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jameskim527"
+      # url: "https://instagram.com/jameskim527"
 
 # Site Footer
 footer:
@@ -132,7 +132,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jylkim"
+      # url: "https://github.com/jylkim"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -145,7 +145,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jameskim527"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jameskim527@gmail.com"
 
 # Reading Files
 include:
